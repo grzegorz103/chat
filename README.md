@@ -1,2 +1,1 @@
-# chat
-Client-Server TCP chat application
+# Multi Client-Server TCP chat application (JavaFX GUI)
